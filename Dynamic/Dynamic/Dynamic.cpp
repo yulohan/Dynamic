@@ -96,6 +96,6 @@ int main(int argc, _TCHAR* argv[])
 	Solution su;
     string s = "cabba";
     su.longestPalindrome1(s);
-
+    //return;
     return 0;
 }
